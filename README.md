@@ -9,3 +9,5 @@ The code provided here is to train a network for amplitude reconstruction in dig
 
 # Dependencies
 Modules that the code depends on are given in the first functional block.
+
+Feel free to let me know if you have any problems in running the code.
