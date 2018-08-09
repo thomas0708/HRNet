@@ -524,4 +524,19 @@ fig = plot(pred_imgs[-17 : -1, :, :])
 
 # plt.savefig('test_pred_exp.eps', bbox_inches='tight', pad_inches=0)
 
+
+### Compute PSNR and SSIM
+
+test_psnr = 0
+test_ssim = 0
+for i in range (0, NUM_TEST):
+    test_psnr = test_psnr + psnr(pred_imgs[i, :, :], Y_test[i, :, :])
+    test_ssim = test_ssim + ssim(pred_imgs[i, :, :], Y_test[i, :, :])
+
+test_psnr = test_psnr / NUM_TEST
+test_ssim = test_ssim / NUM_TEST
+
+print("testing PSNR: %f" % (test_psnr))
+print("testing SSIM: %f" % (test_ssim))
+
 sess.close()
