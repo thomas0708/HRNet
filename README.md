@@ -2,7 +2,7 @@
 
 The code in Python is for the paper:
 
-Zhenbo Ren, Zhimin Xu, and Edmund Y. Lam, "HRNet: An end-to-end deep learning framework for digital holographic reconstruction." submitted to Advanced Photonics, 2018.
+Zhenbo Ren, Zhimin Xu, and Edmund Y. Lam, "End-to-end deep learning framework for digital holographic reconstruction." Advanced Photonics, to appear, 2019.
 
 Feel free to let me know if you have any problems at thomas0708renATgmail.com.
 
