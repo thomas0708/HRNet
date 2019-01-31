@@ -2,7 +2,7 @@
 
 The code in Python is for the paper:
 
-Zhenbo Ren, Zhimin Xu, and Edmund Y. Lam, "End-to-end deep learning framework for digital holographic reconstruction." Advanced Photonics, to appear, 2019.
+Zhenbo Ren, Zhimin Xu, and Edmund Y. Lam, “End-to-end deep learning framework for digital holographic reconstruction,” Advanced Photonics, vol. 1, no. 1, pp. 016004, January 2019. doi:10.1117/1.AP.1.1.016004
 
 Feel free to let me know if you have any problems at thomas0708renATgmail.com.
 
